@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/pnroy/AndroidStudioProjects/l2pLab6Starter/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">L2pLab6Starter</string>
+    <string name="hello">Hello World, L2pLab6StarterActivity!</string>
+</resources>
